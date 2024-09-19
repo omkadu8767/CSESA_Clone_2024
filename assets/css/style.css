@@ -734,10 +734,17 @@ section {
   position: relative;
   background: #fff;
   padding: 60px;
-  margin-top: 40px;
+  margin-top: 35px;
   font-size: 16px;
   font-style: italic;
   border-radius: 5px;
+}
+@media (max-width: 1180px) {
+  #testimonials .quote {
+    margin-left: 60px;
+    /* margin-top: 35px; */
+  }
+
 }
 #testimonials .quote b {
   display: inline-block;
