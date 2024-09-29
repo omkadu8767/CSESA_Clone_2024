@@ -756,13 +756,11 @@ section {
   #testimonials {
       padding: 60px 20px;
   }
-
   #testimonials .profile {
       display: flex;
       flex-direction: column;
       align-items: center;
   }
-
   #testimonials .quote {
       margin-left: 0;
       padding: 40px;
@@ -774,12 +772,10 @@ section {
   #testimonials {
       padding: 40px 10px;
   }
-
   #testimonials .profile .pic {
       height: 200px;
       width: 200px;
   }
-
   #testimonials .quote {
       padding: 30px;
       font-size: 12px;
@@ -791,16 +787,13 @@ section {
       height: 180px;
       width: 180px;
   }
-
   #testimonials .quote {
       padding: 20px;
       font-size: 10px;
   }
-
   #testimonials .profile h4 {
       font-size: 18px;
   }
-
   #testimonials .profile span {
       font-size: 14px;
   }
